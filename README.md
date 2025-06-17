@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/saintdoresh-weather-mcp-claudedesktop-badge.png)](https://mseep.ai/app/saintdoresh-weather-mcp-claudedesktop)
+
 # Weather MCP Tool for Claude Desktop
 
 An MCP (Model Context Protocol) tool that provides real-time weather data, forecasts, and historical weather information using the OpenWeatherMap API, specifically designed for Claude Desktop.
